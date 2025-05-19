@@ -3,6 +3,9 @@
 ## 🧑‍💻 Acesso ao site
 https://alexandreconte.github.io/investimento-solar/
 
+## Vídeo
+https://www.youtube.com/watch?v=JR-WI7Igzgc
+
 ## 📑 Índice
 
 - [Participantes do Projeto](#participantes-do-projeto)
